@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dri:home|Door43 (dri)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dri|d43-dri repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dri/archive/master.zip|d43-dri.zip]]
+
+**Recent Changes**
+{{changes>ns = dri}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dri|Ethnologue data]]
+
